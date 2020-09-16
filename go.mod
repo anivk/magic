@@ -1,4 +1,6 @@
-module github.com/jacob-ebey/magic
+module github.com/anivk/magic
+
+// forking module to iterate on and work on, hosting it locally
 
 go 1.13
 
